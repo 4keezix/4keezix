@@ -7,7 +7,7 @@
 - **Others:** MongoDB, Agile (Scrum), Docker (basique)
 
 ## 🌟 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basileparrain&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4keezix&show_icons=true&theme=dark)
 
 ## 🚀 Projects
 - 🔹 [LocationGuessr](https://github.com/ethan-hgt/LocationGuessr) : Jeu inspiré de GeoGuessr avec plusieurs modes.
@@ -15,7 +15,7 @@
 - 🔹 [Recipe Website](#) : Projet de gestion de recettes en PHP/MySQL.
 
 ## 📈 Dynamic Updates
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basileparrain&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4keezix&layout=compact&theme=dark)
 
 ## 🌐 Social Links
 - 🌍 [My Portfolio](#)
