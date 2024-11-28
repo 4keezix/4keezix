@@ -59,7 +59,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="[https://www.linkedin.com/in/basileparrain/]">
+  <a href="https://www.linkedin.com/in/basileparrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:4keezix@gmail.com">
