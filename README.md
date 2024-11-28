@@ -55,14 +55,6 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 
 ---
 
-## 📰 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
----
-
 ## 🎯 Fun Facts
 - **🎨 Fan de design** : Mes interfaces sont modernes et interactives, inspirées de sites comme **Apple**.
 - **🔍 Toujours curieux** : J'adore découvrir de nouvelles technologies et frameworks.
@@ -74,7 +66,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
   <a href="https://www.linkedin.com/in/4keezix/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@4keezix.com">
+  <a href="mailto:4keezix@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://4keezix.com">
