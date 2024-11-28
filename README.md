@@ -20,3 +20,8 @@
 ## 🌐 Social Links
 - 🌍 [My Portfolio](#)
 - 💼 [LinkedIn](https://www.linkedin.com/in/basileparrain/)
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/Git-2.30-green?style=flat-square&logo=git)
