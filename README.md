@@ -59,7 +59,7 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement en deuxième année de **
 
 ---
 
-## 🌐 Restez en contact
+## 🌐 Contactez moi
 <div align="center">
   <a href="https://www.linkedin.com/in/basileparrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
