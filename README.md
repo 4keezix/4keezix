@@ -43,15 +43,11 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 ## 🚀 Featured Projects
 ### 🎮 **LocationGuessr**
 - Jeu inspiré de GeoGuessr avec des modes comme **Monuments**, **Fantôme**, et **Lampe Torche**.
-- [🔗 Voir le projet](https://github.com/4keezix/SAE_DEV_CookieClicker)
+- [🔗 Voir le projet](https://github.com/ethan-hgt/LocationGuessr)
 
 ### 🍪 **Cookie Clicker**
 - Jeu interactif recréé en **C#** avec une interface WPF.
 - [🔗 Voir le projet](https://github.com/4keezix/SAE_DEV_CookieClicker)
-
-### 📖 **Recipe Website**
-- Application PHP/MySQL pour la gestion de recettes et commentaires.
-- [🔗 Voir le projet](#)
 
 ---
 
@@ -63,7 +59,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/4keezix/">
+  <a href="(https://www.linkedin.com/in/basileparrain/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:4keezix@gmail.com">
