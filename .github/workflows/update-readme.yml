@@ -3,7 +3,7 @@ name: Update README with recent activity
 on:
   schedule:
     - cron: "0 * * * *"  # Exécuter toutes les heures
-  workflow_dispatch:     # Permet d'exécuter manuellement le workflow
+  workflow_dispatch:     # Permet de lancer manuellement le workflow
 
 jobs:
   update-readme:
@@ -13,10 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-
       - name: GitHub - Activity - Readme
         uses: jamesgeorge007/github-activity-readme@v0.4.4
         with:
-          COMMIT_MSG: "Updated README with recent activity"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GH_USERNAME: 4keezix            # Ton nom d'utilisateur GitHub
+          COMMIT_NAME: GitHub Actions    # Nom utilisé pour les commits
+          COMMIT_EMAIL: actions@github.com # Email utilisé pour les commits
+          COMMIT_MSG: "Updated README with recent activity" # Message de commit
+          MAX_LINES: 5                   # Nombre maximum d'activités à afficher
