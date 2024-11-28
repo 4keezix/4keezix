@@ -19,4 +19,4 @@
 
 ## 🌐 Social Links
 - 🌍 [My Portfolio](#)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/basileparrain/)
