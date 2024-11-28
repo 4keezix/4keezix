@@ -1,23 +1,25 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+4keezix's+Profile!;Passionate+Developer;Web+%26+Game+Creator" alt="Typing SVG">
+<div align="center" style="padding: 30px; border: 2px solid #36BCF7; border-radius: 20px; box-shadow: 0px 4px 15px rgba(54, 188, 247, 0.5); background-color: #1E1E1E; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h1 style="font-size: 2.5em; font-weight: bold; margin: 0;">👋 Bienvenue sur mon profil GitHub !</h1>
+  <p style="font-size: 1.2em; margin: 10px 0 20px;">Étudiant en informatique passionné par le développement</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Curieux+et+motivé;Étudiant+en+BUT+Informatique;Bienvenue+sur+mon+GitHub!" alt="Typing SVG">
 </div>
 
-# 👋 Hello, I'm 4keezix!
+# 👋 Salut, moi c’est 4keezix !
 
-> 🎮 Web Developer | 🎲 Game Enthusiast | 🌐 Tech Explorer  
+> 💻 Étudiant en informatique
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** passionné par le développement web et la création de jeux interactifs. J'aime transformer des idées en projets concrets et esthétiques.
-
----
-
-## 🌟 What I Do
-- **🌐 Web Development** : Création de sites modernes et dynamiques.
-- **🎮 Game Development** : Jeux interactifs comme LocationGuessr.
-- **🔧 Tools Mastery** : PHP, MySQL, JavaScript, HTML/CSS, C#, MongoDB.
+Bienvenue sur mon profil GitHub ! Je suis actuellement en deuxième année de **BUT Informatique** à l’IUT de Dijon. Passionné par les nouvelles technologies, je développe mes compétences en programmation et travaille sur divers projets liés au web et au développement logiciel.
 
 ---
 
-## 🔧 Tools & Technologies
+## 🌟 Ce que je fais
+- **📚 Étudiant** : Apprentissage de langages et concepts fondamentaux comme HTML, CSS, JavaScript, PHP, MySQL, et bien plus.
+- **💻 Projets personnels** : Travaux pratiques pour explorer des technologies comme C#, MongoDB, et WPF.
+- **🧠 Curieux** : Toujours à la recherche de nouvelles compétences et technologies à découvrir.
+
+---
+
+## 🔧 Langages et technologies maîtrisés
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +32,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 
 ---
 
-## 📈 Stats & Contributions
+## 📈 Statistiques et contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4keezix&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -40,32 +42,29 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets récents
 ### 🎮 **LocationGuessr**
-- Jeu inspiré de GeoGuessr avec des modes comme **Monuments**, **Fantôme**, et **Lampe Torche**.
+- Projet universitaire inspiré de GeoGuessr avec des modes comme **Monuments**, **Fantôme**, et **Lampe Torche**.
 - [🔗 Voir le projet](https://github.com/ethan-hgt/LocationGuessr)
 
 ### 🍪 **Cookie Clicker**
-- Jeu interactif recréé en **C#** avec une interface WPF.
+- Recréation d’un jeu interactif en **C#** avec une interface WPF.
 - [🔗 Voir le projet](https://github.com/4keezix/SAE_DEV_CookieClicker)
 
 ---
 
 ## 🎯 Fun Facts
-- **🎨 Fan de design** : Mes interfaces sont modernes et interactives, inspirées de sites comme **Apple**.
-- **🔍 Toujours curieux** : J'adore découvrir de nouvelles technologies et frameworks.
+- **🎨 Fan de design** : J’apprécie les interfaces modernes et interactives, inspirées des sites minimalistes.
+- **🔍 Toujours curieux** : Apprendre de nouvelles technologies et frameworks est ma priorité.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Restez en contact
 <div align="center">
   <a href="https://www.linkedin.com/in/basileparrain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:4keezix@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://4keezix.com">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </div>
