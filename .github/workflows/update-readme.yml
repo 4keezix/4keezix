@@ -13,8 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update Recent Activity in README
-        uses: jamesgeorge007/github-activity-readme@v1.0.0
+
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.4.4
         with:
           COMMIT_MSG: "Updated README with recent activity"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
