@@ -58,8 +58,8 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en **BUT Informatique** p
 ## 📰 Latest Activity
 
 <!--START_SECTION:activity-->
-<!-- Dynamic GitHub activity will be here -->
 <!--END_SECTION:activity-->
+
 
 ---
 
