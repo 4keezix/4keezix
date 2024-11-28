@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm 4keezix !
 
-<!--
-**4keezix/4keezix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tools & Technologies
+- **Languages:** HTML, CSS, JavaScript, PHP, MySQL, C#, Python
+- **Frameworks:** WPF, React (débutant), Laravel
+- **Tools:** Git, Visual Studio, Visual Studio Code, MySQL Workbench
+- **Others:** MongoDB, Agile (Scrum), Docker (basique)
 
-Here are some ideas to get you started:
+## 🌟 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basileparrain&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔹 [LocationGuessr](https://github.com/ethan-hgt/LocationGuessr) : Jeu inspiré de GeoGuessr avec plusieurs modes.
+- 🔹 [Cookie Clicker](https://github.com/4keezix/SAE_DEV_CookieClicker) : Jeu de clic recréé en WPF.
+- 🔹 [Recipe Website](#) : Projet de gestion de recettes en PHP/MySQL.
+
+## 📈 Dynamic Updates
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basileparrain&layout=compact&theme=dark)
+
+## 🌐 Social Links
+- 🌍 [My Portfolio](#)
+- 💼 [LinkedIn](#)
