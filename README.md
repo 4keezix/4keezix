@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Curieux+et+motivé;Étudiant+en+BUT+Informatique;Bienvenue+sur+mon+GitHub!" alt="Typing SVG">
 </div>
 
-# 👋 Salut, moi c’est 4keezix !
+# 👋 Salut, moi c’est Basile !
 
 > 💻 Étudiant en informatique
 
