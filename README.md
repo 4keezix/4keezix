@@ -70,6 +70,6 @@ En parallèle de mes études, j’ai fondé **4K Web**, une micro-entreprise sp�
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://4kweb.fr">
-    <img src="https://img.shields.io/badge/Mon+site+-4K+Web-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="4K Web">
+    <img src="https://img.shields.io/badge/-4K+Web-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="4K Web">
   </a>
 </div>
